@@ -22,7 +22,6 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 400px;
-    /* Set a maximum width for the login container */
 }
 
 form {
@@ -52,7 +51,6 @@ button:hover {
     background-color: #45a049;
 }
 
-/* Add a media query for smaller screens */
 @media screen and (max-width: 600px) {
     .login-container {
         width: 90%;
